@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ovh-sms
+    env: php
+    plan: free
+    buildCommand: ""
+    startCommand: ""
